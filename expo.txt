@@ -1,0 +1,1 @@
+https://expo.dev/@asikfarieth/calculator?serviceType=classic&distribution=expo-go
